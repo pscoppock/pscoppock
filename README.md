@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in ... data and development.
 
-- 🌱 I’m currently learning ... seaborn, pandas, SQL and django.
+- 🌱 I’m currently learning ... matplotlib, seaborn, pandas, and SQL.
 
 - 💞️ I’m looking to collaborate on ... flexible.  I'd love to be working on a data project, but web development is great, too.
 
